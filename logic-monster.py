@@ -6,8 +6,8 @@ import config
 import glob
 import pathlib
 
-masto = Mastodon(client_id=config.client_id, access_token=config.access_token, api_base_url=config.url)
-
+masto = Mastodon(access_token='bot.usercred.secret', api_base_url=config.url)
+masto.log_in()
 files = glob.glob(f"{config.src_dir}/*.txt")
 
 selected = random.choice(files)
