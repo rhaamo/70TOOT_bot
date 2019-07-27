@@ -2,3 +2,4 @@ app_tokens
 log_in
 *.secret
 venv
+config.py
