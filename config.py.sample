@@ -1,0 +1,5 @@
+client_id = ""
+access_token = ""
+url = "https://pleroma.otter.sh"
+src_dir = "./srcs/unprocessed"
+dst_dir = "./srcs/processed"
