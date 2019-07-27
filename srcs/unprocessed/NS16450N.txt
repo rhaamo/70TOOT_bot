@@ -1,0 +1,3 @@
+NS16450N
+National Semiconductors
+Universal Asynchronous Receiver/Transmitter (UART)
