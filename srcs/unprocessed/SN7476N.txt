@@ -1,0 +1,3 @@
+SN7476N
+Texas Instruments
+dual J-K flip-flop, asynchronous preset and clear

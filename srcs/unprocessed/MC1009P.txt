@@ -1,0 +1,3 @@
+MC1009P
+Motorola
+Triple 3 Input Gate, 3 NOR Outputs w/o pulldowns

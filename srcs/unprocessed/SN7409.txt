@@ -1,0 +1,3 @@
+SN7409N
+Texas Instruments
+QUAD 2-Input AND GATE with OPEN-COLLECTOR outputs

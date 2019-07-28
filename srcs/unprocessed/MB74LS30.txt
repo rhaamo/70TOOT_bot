@@ -1,0 +1,2 @@
+MB74LS30
+single 8-input NAND gate

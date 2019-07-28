@@ -1,0 +1,3 @@
+CD4052BE
+Texas Instruments
+Dual 4-channel analog multiplexer/demultiplexer 

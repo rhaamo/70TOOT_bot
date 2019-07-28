@@ -1,0 +1,3 @@
+SN7475N
+Texas Instruments
+4-bit bistable latch, complementary outputs 

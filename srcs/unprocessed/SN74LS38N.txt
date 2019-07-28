@@ -1,0 +1,3 @@
+SN74LS38N
+Texas Instruments
+quad 2-input NAND gate; open-collector driver NO=30

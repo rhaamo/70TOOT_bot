@@ -1,0 +1,3 @@
+MB8128-15
+Fujitsu
+16384-bit Static Random Access Memory with Automatic Power Down

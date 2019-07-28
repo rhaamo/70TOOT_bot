@@ -1,0 +1,3 @@
+MC1012P
+Motorola
+Quad 2 Input Gate, 4 NOR Outputs w/o pulldowns

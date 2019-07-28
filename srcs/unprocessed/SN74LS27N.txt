@@ -1,0 +1,3 @@
+SN74LS27N
+Texas Instruments
+triple 3-input NOR gate

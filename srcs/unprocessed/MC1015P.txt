@@ -1,0 +1,3 @@
+MC1015P
+Motorola
+Dual R-S Flip-Flop (Negative Clock)

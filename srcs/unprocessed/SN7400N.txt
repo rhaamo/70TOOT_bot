@@ -1,0 +1,3 @@
+SN7400N
+Texas Instruments
+quad 2-input NAND gate

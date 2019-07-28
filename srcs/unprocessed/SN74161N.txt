@@ -1,0 +1,3 @@
+SN74161N
+Texas Instruments
+Synchronous Counters with Direct Clear

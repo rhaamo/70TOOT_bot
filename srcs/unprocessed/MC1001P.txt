@@ -1,0 +1,3 @@
+MC1001P
+Motorola
+Single 6 Input Gate, 3 OR Out w pulldowns, 3 NOR out w pulldowns

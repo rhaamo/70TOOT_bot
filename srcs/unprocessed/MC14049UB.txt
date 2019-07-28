@@ -1,0 +1,3 @@
+MC14049UB
+ON Semiconductor
+Hex Buffers

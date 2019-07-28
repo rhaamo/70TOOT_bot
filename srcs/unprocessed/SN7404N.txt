@@ -1,0 +1,3 @@
+SN7404N
+Texas Instruments
+hex inverter gate

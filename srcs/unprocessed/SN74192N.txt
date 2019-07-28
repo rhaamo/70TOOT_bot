@@ -1,0 +1,3 @@
+SN74192N
+Texas Instruments
+synchronous presettable up/down decade counter, clear 
