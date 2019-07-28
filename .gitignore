@@ -3,3 +3,5 @@ log_in
 *.secret
 venv
 config.py
+*.pyc
+__pycache__
